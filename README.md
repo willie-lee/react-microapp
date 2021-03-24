@@ -1,5 +1,5 @@
-# scotia-microapp
-soctia bank micro react app
+# react-microapp
+react bank micro react app
 
 # Setup
 in every app root dir - `root-config`, `scotia-micro-nav`, `scotia-micro-page1`, `scotia-micro-page2`
